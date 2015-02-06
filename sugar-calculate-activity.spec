@@ -2,7 +2,7 @@
 
 Name: sugar-calculate-activity
 Version: 42
-Release: 1
+Release: 2
 Summary: Calculate activity for Sugar
 License: GPLv2+
 Group: Graphical desktop/Other

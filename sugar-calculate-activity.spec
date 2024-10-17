@@ -6,7 +6,7 @@ Release: 1
 Summary: Calculate activity for Sugar
 License: GPLv2+
 Group: Graphical desktop/Other
-Url: http://sugarlabs.org/
+Url: https://sugarlabs.org/
 
 Source: http://download.sugarlabs.org/sources/sucrose/fructose/Calculate/Calculate-%{version}.tar.bz2
 
